@@ -7,3 +7,6 @@ coverage.json
 coverage/
 yarn-error.log
 !dist/**
+
+artifacts
+configurable-rights-pool-*.tgz
