@@ -1,12 +1,14 @@
 {
     "name": "configurable-rights-pool",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "license": "GPL-3.0-only",
     "description": "Smart pool template for Liquidity Bootstrapping Pools",
     "files": [
         "/contracts/*.sol",
         "/contracts/**/*.sol",
-        "/artifacts/*.json"
+        "/artifacts/*.json",
+        "/interfaces/*.sol",
+        "/libraries/*.sol"
     ],
     "scripts": {
         "compile": "truffle compile",

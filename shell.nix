@@ -11,7 +11,7 @@ let
 
  publish = pkgs.writeShellScriptBin "publish" ''
  npm pack
- npm publish ./configurable-rights-pool-0.0.1.tgz --access public
+ npm publish ./configurable-rights-pool-0.0.2.tgz --access public
  '';
 in
 pkgs.stdenv.mkDerivation {
