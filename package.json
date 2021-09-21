@@ -1,6 +1,6 @@
 {
-    "name": "configurable-rights-pool",
-    "version": "0.0.2",
+    "name": "@beehiveinnovation/configurable-rights-pool",
+    "version": "0.0.1",
     "license": "GPL-3.0-only",
     "description": "Smart pool template for Liquidity Bootstrapping Pools",
     "files": [
